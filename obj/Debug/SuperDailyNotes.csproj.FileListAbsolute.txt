@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SuperDailyNotes\bin\Debug\SuperDailyNotes.exe.config
+C:\Users\User\source\repos\SuperDailyNotes\bin\Debug\SuperDailyNotes.exe
+C:\Users\User\source\repos\SuperDailyNotes\bin\Debug\SuperDailyNotes.pdb
+C:\Users\User\source\repos\SuperDailyNotes\obj\Debug\SuperDailyNotes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperDailyNotes\obj\Debug\SuperDailyNotes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperDailyNotes\obj\Debug\SuperDailyNotes.exe
+C:\Users\User\source\repos\SuperDailyNotes\obj\Debug\SuperDailyNotes.pdb
